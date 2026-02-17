@@ -7,6 +7,8 @@
 
 - HOWTO (обязательно прочитать/следовать): `docs/00-howto.md`
 - Vision & Values (точка истины сверху): `docs/10-vision.txt`
+- Podcast initiative workspace: `initiative-010-podcast/`
+- Radio club initiative workspace: `initiative-020-radio-club/`
 
 ## Как пользоваться (коротко)
 1) Перед любой значимой работой делаем **Pre‑flight** по `docs/00-howto.md`.
